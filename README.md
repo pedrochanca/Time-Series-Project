@@ -3,7 +3,7 @@
 ## Part 1 - Linear Models
 
 ### Dataset description:
-The file “2014-2018 PM10 LisAvLib” contains a time series of hourly-levels of $PM_{10}$ particles (in micrograms per cubic meter), collected at Avenida da Liberdade monitoring station in Lisbon from 01/01/2014 to 31/12/2018.
+The file “2014-2018 PM10 LisAvLib” contains a time series of hourly-levels of PM_10 particles (in micrograms per cubic meter), collected at Avenida da Liberdade monitoring station in Lisbon from 01/01/2014 to 31/12/2018.
 
 ### Main Goal:
 Fit a SARIMA-type model to the time series representing 24-hour average levels of PM_10 particles. 
