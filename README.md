@@ -37,15 +37,15 @@ The file "2015-2019 Nasdaq.txt" contains the date, open, high, low, closing, adj
 
 ### Process:
 1. Exploratory Data Analysis:
-  1. Log-returns;
-  2. Differencing;
-  3. ACF and PACF analysis;
-  4. Independence Testing;
-  5. Fitting ARIMA-type model.
+    1. Log-returns;
+    2. Differencing;
+    3. ACF and PACF analysis;
+    4. Independence Testing;
+    5. Fitting ARIMA-type model.
 2. GARCH-type model fit:
-  1. ARCH model;
-  2. GARCH model;
-  3. APARCH model.
+    1. ARCH model;
+    2. GARCH model;
+    3. APARCH model.
 3. Residuals Diagnostic.
 
 ### Code Language: R
